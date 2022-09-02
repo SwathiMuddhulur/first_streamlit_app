@@ -2,7 +2,6 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-from urlib.error import URLError
 streamlit.title("My first Streamlit")
 streamlit.header(" 🥣 Application")
 streamlit.text("🐔 Text1")
